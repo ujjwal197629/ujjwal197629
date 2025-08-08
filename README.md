@@ -8,8 +8,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://ujjwal12.pythonanywhere.com/](https://ujjwal12.pythonanywhere.com/)
-
 - 📫 How to reach me **ujwal.dumre@gmail.com**
 
 - ⚡ Fun fact **I am funny**
